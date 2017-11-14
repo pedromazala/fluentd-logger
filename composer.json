@@ -6,13 +6,17 @@
         "logging",
         "fluentd"
     ],
-    "homepage": "https://github.com/tokenly/laravel-fluentd-logger",
+    "homepage": "https://github.com/pedromazala/laravel-fluentd-logger",
     "license": "MIT",
     "authors": [
         {
             "name": "Devon Weller",
             "email": "devon@tokenly.com",
             "homepage": "https://tokenly.com"
+        },
+        {
+            "name": "Pedro Mázala",
+            "email": "pedroh.mazala@gmail.com"
         }
     ],
     "require": {
