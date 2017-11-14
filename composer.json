@@ -1,5 +1,5 @@
 {
-    "name": "tokenly/fluentd-logger",
+    "name": "pedromazala/fluentd-logger",
     "type": "library",
     "description": "A Fluentd logging component for Laravel",
     "keywords": [
